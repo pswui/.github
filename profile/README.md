@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pswui/.github/main/Square%20Logo%20Rounded.png" width="300" height="300" />
+  <img src="https://raw.githubusercontent.com/pswui/.github/main/Square%20Logo%20Rounded.png" width="200" height="200" />
 </p>
 
 <p align="center">
